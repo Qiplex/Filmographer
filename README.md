@@ -2,6 +2,6 @@
 
 ### Watch all of your movies with a simple click!
 
-### More info https://qiplex.com/software/filmographer/
+### Get the app here → https://qiplex.com/software/filmographer/
 
 ![Filmographer](http://qiplex.com/img/filmographer-app.png)
